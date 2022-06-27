@@ -45,19 +45,6 @@
         position: fixed !important;
     }
 
-    .img-ferramentas {
-        width: 100% !important;
-        height: 100% !important;
-    }
-
-    .img-ferramentas img {
-        margin-left: 0em !important;
-        margin-top: -12em !important;
-        width: 5000px !important;
-        height: 400px !important;
-
-    }
-
     .segundo-item {
         margin-top: -2.1em !important;
         height: 100% !important;
@@ -297,12 +284,6 @@ body {
     color: #7198b6;
     font-family: 'Montserrat', sans-serif;
     font-size: 2em;
-}
-
-.img-ferramentas img {
-    height: 50em;
-    margin-top: -23em;
-    margin-left: 24em;
 }
 
 .segundo-item {
