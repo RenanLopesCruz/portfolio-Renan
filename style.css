@@ -388,8 +388,8 @@ body {
     gap: 70px;
     display: flex;
     flex-direction: row;
-    justify-content: start;
-    margin-left: 4em;
+    justify-content: center;
+    margin-left: 0em;
     align-items: stretch;
     flex-wrap: wrap;
     margin-top: 2em;
