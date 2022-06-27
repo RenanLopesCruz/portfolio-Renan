@@ -133,6 +133,8 @@
     .projetos {
         width: 18em !important;
         justify-content: space-around !important;
+        justify-content: start !important;
+        margin-left: 4em !important;
 
     }
 
